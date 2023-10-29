@@ -1,7 +1,7 @@
 
-<img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/Hi.gif" width="30px"/> 
 
-# <h2>Olá, Este é o perfil do grupo @Essencia-Litoranea</h2>
+<img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/Hi.gif" width="30px"/> 
+ <h2>Olá, Este é o perfil do grupo @Essencia-Litoranea</h2>
  
 
 <br>
