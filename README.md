@@ -12,16 +12,16 @@
 
 <p width="300px" align="left"> 
   O grupo <strong>@Essencia-Litoranea</strong> é composto por Alunas da Etec de Carapicuíba, 
-  e o trabalho que estamos desenvolvendo é interdisciplinar<br><br>
- 🪼 Nosso tema é sobre povos tradicionais brasileiros, e nosso grupo é sobre os caiçaras!
+  e o trabalho que estamos desenvolvendo é interdisciplinar, e principalmente voltado a matéria de programação web<br><br>
+ 🪼 Nosso tema é sobre povos tradicionais brasileiros, e nosso grupo é sobre os povos caiçaras!
 </p>
 
 <p align="left">
-  🪸 **Queremos fazer um site simples e usando ferramentas puras, a adição de algumas bibliotecas vão ajudar a produzirmos mais rápido, como o Bootstrap**
+  🪸 **Queremos fazer um site simples e usando ferramentas puras, a adição de algumas bibliotecas vão ajudar a produzirmos mais rápido, como o Bootstrap por exemplo**
 </p>
 
 <p align="left">
-  🐚 **Nosso grupo está registrando todas as versões pelo SharePoint, essa opção vem do nosso Professor e mentor do projeto.**
+  🐚 **Nosso grupo está registrando todas as versões pelo SharePoint, essa opção vem do nosso Professor e mentor do projeto**
 </p>
 
 <p align="left">
